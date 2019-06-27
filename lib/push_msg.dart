@@ -52,6 +52,7 @@ class PushMsgState extends State<PushMsg> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Hello World'),
+        elevation: 1.0,
       ),
       body: Container(
         child: Text(
