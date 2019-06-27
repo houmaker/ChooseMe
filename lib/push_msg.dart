@@ -51,10 +51,13 @@ class PushMsgState extends State<PushMsg> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Hello'),
+        title: Text('Hello World'),
       ),
       body: Container(
-        child: Text('Hello'),
+        child: Text(
+          'Hello',
+          style: TextStyle(fontSize: 20.0),
+        ),
       ),
     );
   }
