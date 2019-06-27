@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "8423712508",
+    "firebase_url": "https://cmapp-48558.firebaseio.com",
+    "project_id": "cmapp-48558",
+    "storage_bucket": "cmapp-48558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8423712508:android:55d7f51fffb65fb0",
+        "android_client_info": {
+          "package_name": "com.houmaker.cma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8423712508-hj10cg4i3hs4bm8uvde4se5clah7nq27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.houmaker.cma",
+            "certificate_hash": "876db3c35a6b9e059c730def97fe63e39f0f4391"
+          }
+        },
+        {
+          "client_id": "8423712508-63mtj1k25d207s1pcobf0kse7rpst1dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD18FF0Gi896bMIa-dzm51jllP87VjrCBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8423712508-63mtj1k25d207s1pcobf0kse7rpst1dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
